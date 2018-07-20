@@ -34,4 +34,9 @@ export class AppComponent {
   );
 
   fecha = new Date();
+
+  video = 'oEhnXmnJzp4';
+
+  contrasena = 'brayan';
+  activar = true;
 }
